@@ -1,0 +1,10 @@
+,F0,F5,G0,G5,K0,M0
+Transit_1(obs_day),30,7,76,61,62,6
+Transit_2(obs_day),295,71,386,677,268,165
+Transit_3(obs_day),560,157,698,nan,470,321
+Transit_4(obs_day),nan,232,nan,nan,675,477
+Transit_5(obs_day),nan,308,nan,nan,nan,632
+Peak_Brightness_Drop,0.0988,0.565,0.00825,0.645,0.067,0.012
+Mass(Msun),1.8,1.4,1.07,0.93,0.81,0.48
+Radius(Rsun),1.35,1.2,1.05,0.93,0.85,0.63
+Temperature(K),7.20E+03,6.50E+03,6.00E+03,5.40E+03,4.70E+03,3.30E+03
